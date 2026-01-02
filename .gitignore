@@ -1,0 +1,15 @@
+# csv file
+Student_Performance.csv
+
+#  Virtual Environment
+env2/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# IPYNB file
+student_performance_index.ipynb
